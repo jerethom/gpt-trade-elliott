@@ -1,0 +1,24 @@
+{
+  "name": "gpt-trade-eliott",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerethom/gpt-trade-elliott.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerethom/gpt-trade-elliott/issues"
+  },
+  "homepage": "https://github.com/jerethom/gpt-trade-elliott#readme",
+  "dependencies": {
+    "ccxt": "3.0.46",
+    "talib": "1.1.5",
+    "typescript": "5.0.3"
+  }
+}
